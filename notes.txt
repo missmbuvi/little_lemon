@@ -1,0 +1,16 @@
+Superuser:
+Username: admin
+Password: admin123
+
+Test Users:
+- Manager: manager1 / manager123
+- Delivery Crew: delivery1 / delivery123
+- Customer: customer1 / customer123
+- New Customer: testcustomer / test123
+
+API Base URL: http://127.0.0.1:8000/api/
+Auth URL: http://127.0.0.1:8000/auth/
+
+Groups created:
+- Manager
+- Delivery Crew
